@@ -284,3 +284,5 @@ E = 7500/8192 = 0.9155 (≈ 91.6 %), consistent with E = 1 − α(P−1)/P.
 ## Notes
 * Because the slope is 1 − α, the budget is generous: nearly 8.5 % serial time is allowed.
 * Equivalent Amdahl-frame fraction: s = α/(α + (1−α)P) ≈ 0.0845/(0.0845 + 7499.9) ≈ 1.13 × 10⁻⁵ — i.e., the uniprocessor serial fraction of the scaled problem would have to be only ~11 ppm. The tolerance only holds if the problem is truly scaled to fill the machine.
+   @sufianism Tasks 01-07 are ready for review.
+  
